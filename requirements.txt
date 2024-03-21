@@ -1,0 +1,6 @@
+pandas
+nltk
+scikit-learn
+pandas-profiling
+pandas-profiling[notebook]
+pydantic-settings
