@@ -4,3 +4,7 @@ scikit-learn
 pandas-profiling
 pandas-profiling[notebook]
 pydantic-settings
+tensorflow
+tensorflow-addons
+scipy
+tf_crf_layer
