@@ -6,5 +6,4 @@ List of contributors:
 - Aylin Snellen
 - Borná Djavdan
 - Pedro Villadangos Benavides
-- Bram Huijzer
 - Thierry Brands
